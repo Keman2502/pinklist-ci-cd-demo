@@ -56,7 +56,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <h1 className="title">CI/CD Test - To-Do App</h1>
+        <h1 className="title">CI/CD Test - PinkList To-Do App</h1>
 
         <div className="input-wrapper">
           <input
